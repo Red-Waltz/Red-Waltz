@@ -35,6 +35,10 @@
 
 > <a href="https://www.freecodecamp.org/certification/JoeyGonin/responsive-web-design">Responsive Web Design</a>
 
+### • **Coursera**
+
+> <a href="https://coursera.org/share/4febedd4c34851ed85445a3a01ae0289">Meta - HTML and CSS in Dept</a>
+
 ### • **Binance**
 
 > <a href="https://certificate.evidenz.io/check/0192431D0C9264A820C5487DD083F0D975BC9E71DF591045F4BCC269F1E0392FZ0JETHU5ajNLWGtzWm1DakFIUzB1L0FBZlV6YS9ucUhHWHo5YWwxbTdMejlFRWE3">Skill Certificate in Cryptos and Blockchain</a>
