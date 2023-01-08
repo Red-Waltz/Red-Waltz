@@ -38,6 +38,7 @@
 ### • **Coursera**
 
 > <a href="https://coursera.org/share/4febedd4c34851ed85445a3a01ae0289">Meta - HTML and CSS in Dept</a>
+> <a href="https://coursera.org/share/3789e2569b399027f35d094dc1561a4f">Meta - Programming with JavaScript</a>
 
 ### • **Binance**
 
