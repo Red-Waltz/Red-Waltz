@@ -34,7 +34,6 @@
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
  </div>
 
@@ -51,6 +50,10 @@
 > <a href="https://coursera.org/share/4febedd4c34851ed85445a3a01ae0289">Meta - HTML and CSS in Dept</a>
 
 > <a href="https://coursera.org/share/3789e2569b399027f35d094dc1561a4f">Meta - Programming with JavaScript</a>
+
+> <a href="https://coursera.org/share/41b397d8b0ecc8adc9e9aca6232cc204">Meta - Introduction to Databases</a>
+
+> <a href="https://coursera.org/share/c296adb53aa48ae4254cc3f450b85828">Meta - Version Control</a>
 
 ### • **Binance**
 
